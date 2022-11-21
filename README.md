@@ -1,0 +1,5 @@
+- 👋 Hola, soy Iván San Martín
+- 👀 Estoy interesado en aprender nuevas tecnologias para ser un profesional en el área.
+- 🌱 Aprendo cada día más para ser un mejor programador.
+- 💞️ Busco colaborar en cualquier empresa enfoacada en el desarrollo de software. Actualmente soy estudiante.
+- 📫 Puedes contactarme vía gmail (ivansanmartin987@gmail.com) o Linkedin (www.linkedin.com/in/iván-san-martín-28283423b).
